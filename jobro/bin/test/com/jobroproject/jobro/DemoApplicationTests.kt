@@ -1,4 +1,4 @@
-package com.jobromirror.jobro
+package com.jobroproject.jobro
 
 import org.junit.Test
 import org.junit.runner.RunWith
