@@ -1,4 +1,4 @@
-package com.jobromirror.jobro
+package com.jobroproject.jobro
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
