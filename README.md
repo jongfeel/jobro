@@ -64,4 +64,4 @@ gradle bootRun
 
 ### Setup Redis
 
-- [Redis](https://github.com/jongfeel/jobro/tree/master/docs/Redis.md)
+- [Redis](https://github.com/jongfeel/jobro/blob/master/Docs/Redis.md)
