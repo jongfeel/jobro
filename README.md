@@ -62,4 +62,6 @@ gradle bootRun
 
 ## 내 진행 상황
 
-- None
+### Setup Redis
+
+- [Redis](https://github.com/jongfeel/jobro/tree/master/docs/Redis.md)
